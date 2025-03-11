@@ -1,0 +1,98 @@
+const items = {
+  food: [
+    { name: "Pizza", image: "🍕" },
+    { name: "Burger", image: "🍔" },
+    { name: "Sushi", image: "🍣" },
+    { name: "Taco", image: "🌮" },
+    { name: "Salad", image: "🥗" },
+    { name: "Pasta", image: "🍝" },
+    { name: "Steak", image: "🥩" },
+    { name: "Ice Cream", image: "🍨" },
+    { name: "Donut", image: "🍩" },
+    { name: "Fries", image: "🍟" }
+  ],
+  electronics: [
+    { name: "Laptop", image: "💻" },
+    { name: "Phone", image: "📱" },
+    { name: "Camera", image: "📷" },
+    { name: "Headphones", image: "🎧" },
+    { name: "Smartwatch", image: "⌚" },
+    { name: "Drone", image: "🛸" },
+    { name: "Speaker", image: "🔊" },
+    { name: "TV", image: "📺" },
+    { name: "Keyboard", image: "⌨️" },
+    { name: "Mouse", image: "🖱️" }
+  ],
+  sports: [
+    { name: "Football", image: "⚽" },
+    { name: "Basketball", image: "🏀" },
+    { name: "Tennis Racket", image: "🎾" },
+    { name: "Cricket Bat", image: "🏏" },
+    { name: "Golf Club", image: "🏌️‍♂️" },
+    { name: "Boxing Gloves", image: "🥊" },
+    { name: "Hockey Stick", image: "🏒" },
+    { name: "Baseball", image: "⚾" },
+    { name: "Rugby Ball", image: "🏉" },
+    { name: "Skateboard", image: "🛹" }
+  ],
+  furniture: [
+    { name: "Sofa", image: "🛋️" },
+    { name: "Bed", image: "🛏️" },
+    { name: "Chair", image: "🪑" },
+    { name: "Table", image: "📚" },
+    { name: "Wardrobe", image: "🚪" },
+    { name: "Lamp", image: "💡" },
+    { name: "Shelf", image: "🗄️" },
+    { name: "Mirror", image: "🪞" },
+    { name: "Desk", image: "🖥️" },
+    { name: "Drawer", image: "🗄️" }
+  ],
+  fashion: [
+    { name: "T-Shirt", image: "👕" },
+    { name: "Jeans", image: "👖" },
+    { name: "Dress", image: "👗" },
+    { name: "Shoes", image: "👟" },
+    { name: "Hat", image: "🎩" },
+    { name: "Jacket", image: "🧥" },
+    { name: "Watch", image: "⌚" },
+    { name: "Sunglasses", image: "🕶️" },
+    { name: "Scarf", image: "🧣" },
+    { name: "Gloves", image: "🧤" }
+  ],
+  books: [
+    { name: "Fiction", image: "📖" },
+    { name: "Science", image: "📚" },
+    { name: "History", image: "📜" },
+    { name: "Comics", image: "📒" },
+    { name: "Biography", image: "📘" },
+    { name: "Poetry", image: "📔" },
+    { name: "Mystery", image: "📙" },
+    { name: "Horror", image: "📕" },
+    { name: "Fantasy", image: "📗" },
+    { name: "Thriller", image: "📓" }
+  ],
+  home: [
+    { name: "Vacuum", image: "🧹" },
+    { name: "Oven", image: "🍳" },
+    { name: "Fridge", image: "🧊" },
+    { name: "Washing Machine", image: "🧺" },
+    { name: "Microwave", image: "🍲" },
+    { name: "Fan", image: "🌬️" },
+    { name: "Iron", image: "🧼" },
+    { name: "Toaster", image: "🍞" },
+    { name: "Mixer", image: "🥄" },
+    { name: "Grill", image: "🔥" }
+  ],
+  health: [
+    { name: "Medicine", image: "💊" },
+    { name: "Syringe", image: "💉" },
+    { name: "Bandage", image: "🤕" },
+    { name: "Thermometer", image: "🌡️" },
+    { name: "Stethoscope", image: "🩺" },
+    { name: "Mask", image: "😷" },
+    { name: "Sanitizer", image: "🧴" },
+    { name: "Gloves", image: "🧤" },
+    { name: "First Aid Kit", image: "🆘" },
+    { name: "Inhaler", image: "💨" }
+  ]
+};
