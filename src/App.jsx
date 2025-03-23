@@ -5,7 +5,7 @@ import ProductPage from "./components/ProductPage";
 import NotFoundPage from "./components/NotFoundPage";
 import React from "react";
 import HomePage from "./components/HomePage";
-import ProductDetailsPage from "./components/ProductDetails";
+import ProductDetailsPage from "./components/ProductsDetailsPage";
 
 const App = () => {
   return (
