@@ -2,8 +2,6 @@
 
 **Find the best deals effortlessly with QuickPick – A price comparator website!**
 
-[See website from here](#)
-
 ## Features
 
 - **User-Friendly Search**: Quickly search for products across multiple platforms.
